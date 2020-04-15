@@ -1,0 +1,20 @@
+.SearchMainContainer {
+  /* display: flex; */
+  border: 0px solid #dcdee0;
+  height: 100%;
+  width: 100%;
+}
+
+.customSearch {
+  background-color: white;
+  margin: 15px;
+  border: 0px;
+  width: 80%;
+  height: 50%;
+  border-radius: 50px;
+}
+
+.customSearch:focus {
+  outline: none;
+
+}

@@ -1,0 +1,25 @@
+.ProfileHeaderMainContainer {
+  display: grid;
+  background-color: #ebeced;
+  height: 60px;
+  width: 100%;
+  grid-row: 1/1;
+  grid-template-columns: 55% 15% 15% 15%;
+  border: 0.5px solid #dcdee0;
+}
+.img-deo {
+  border-radius: 50%;
+  border-width: 2px solid black;
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.image {
+  border-radius: 50%;
+  background-color: aliceblue;
+  /* margin: 0 14px 0 14px; */
+  height: 100%;
+  width: 100%;
+}
